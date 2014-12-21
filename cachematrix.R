@@ -1,6 +1,6 @@
 ## Ken Kochi
-## coursera R Programming - Assignment 2
-## December 21, 2014
+## coursera R Programming - Assignment 2 Final
+## December 21, 2014 
 
 ## makeCacheMatrix is a function that takes a square matrix and generates
 ## a list of four functions.
